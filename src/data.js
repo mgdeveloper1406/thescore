@@ -4,6 +4,15 @@ function chillHop() {
     return [
 
         {
+            name:"Comentarios del Pastor Bullón",
+            artist: "Lección 2: LOS CRISOLES VENIDEROS",
+            cover: "https://www.recursos-biblicos.com/wp-content/uploads/2022/06/en-el-crisol-con-cristo-guia-escuela-sabatica-3er-trimestre-pdf-1024x751.jpg",
+            id: uuidv4(),
+            color: ["#F24933", "#F9B437"],
+            audio: "https://archive.org/download/pr-bullon-leccion-2-los-crisoles-de-la-vida/Pr%20Bull%C3%B3n%20%20%20Lecci%C3%B3n%202%20%20Los%20Crisoles%20De%20La%20Vida.mp3",
+            active: true,
+        },
+        {
             name:"Sábado 2 de julio",
             artist: "Lección 2: LOS CRISOLES VENIDEROS",
             cover: "https://www.recursos-biblicos.com/wp-content/uploads/2022/06/en-el-crisol-con-cristo-guia-escuela-sabatica-3er-trimestre-pdf-1024x751.jpg",
@@ -11,8 +20,8 @@ function chillHop() {
             color: ["#F24933", "#F9B437"],
             audio: "https://escuelasabatica.cl/2022/tri3/lecc2/LECCION-2-SABADO.mp3",
             active: true,
-        },
-        {
+         },
+        {   
             name:"Domingo 3 de julio",
             artist: "SORPRESAS",
             cover: "https://www.recursos-biblicos.com/wp-content/uploads/2022/06/en-el-crisol-con-cristo-guia-escuela-sabatica-3er-trimestre-pdf-1024x751.jpg",
