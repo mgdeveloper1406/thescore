@@ -5,11 +5,11 @@ function chillHop() {
 
         {
             name:"Comentarios del Pastor Bullón",
-            artist: "LA JAULA DEL PÁJARO",
+            artist: "Lección 04 – Ver el rostro del Orfebre",
             cover: "https://www.recursos-biblicos.com/wp-content/uploads/2022/06/en-el-crisol-con-cristo-guia-escuela-sabatica-3er-trimestre-pdf-1024x751.jpg",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
-            audio: "https://ia902502.us.archive.org/27/items/y-2mate.com-pr-bullon-leccion-3-la-jaula/y2mate.com%20-%20Pr%20Bull%C3%B3n%20%20Lecci%C3%B3n%203%20%20La%20Jaula.mp3",
+            audio: "https://ia601506.us.archive.org/34/items/y-2mate.com-pr-bullon-leccion-4-viendo-el-rostro-del-orfebre/y2mate.com%20-%20Pr%20Bull%C3%B3n%20%20Lecci%C3%B3n%204%20%20Viendo%20el%20Rostro%20del%20Orfebre.mp3",
             active: true,
         },
         {
