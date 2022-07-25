@@ -9,7 +9,7 @@ function chillHop() {
             cover: "https://www.recursos-biblicos.com/wp-content/uploads/2022/06/en-el-crisol-con-cristo-guia-escuela-sabatica-3er-trimestre-pdf-1024x751.jpg",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
-            audio: "https://ia601506.us.archive.org/34/items/y-2mate.com-pr-bullon-leccion-4-viendo-el-rostro-del-orfebre/y2mate.com%20-%20Pr%20Bull%C3%B3n%20%20Lecci%C3%B3n%204%20%20Viendo%20el%20Rostro%20del%20Orfebre.mp3",
+            audio: "https://ia601500.us.archive.org/34/items/y-2mate.com-pr-bullon-leccion-5-calor-extremo/y2mate.com%20-%20Pr%20Bull%C3%B3n%20%20Lecci%C3%B3n%205%20%20Calor%20extremo.mp3",
             active: true,
         },
         {
