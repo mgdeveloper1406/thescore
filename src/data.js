@@ -13,8 +13,7 @@ function chillHop() {
             active: true,
         },
         {
-            name:"Sábado 30 de julio
-",
+            name:"Sábado 30 de julio",
             artist: "Lección 06 – LUCHANDO CON LA FUERZA DE CRISTO",
             cover: "https://www.recursos-biblicos.com/wp-content/uploads/2022/06/en-el-crisol-con-cristo-guia-escuela-sabatica-3er-trimestre-pdf-1024x751.jpg",
             id: uuidv4(),
