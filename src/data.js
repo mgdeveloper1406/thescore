@@ -5,11 +5,11 @@ function chillHop() {
 
         {
             name:"Comentarios del Pastor Bullón",
-            artist: "Lección 05 – Calor extremo",
+            artist: "Lección 06 – LUCHANDO CON LA FUERZA DE CRISTO",
             cover: "https://www.recursos-biblicos.com/wp-content/uploads/2022/06/en-el-crisol-con-cristo-guia-escuela-sabatica-3er-trimestre-pdf-1024x751.jpg",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
-            audio: "https://ia601500.us.archive.org/34/items/y-2mate.com-pr-bullon-leccion-5-calor-extremo/y2mate.com%20-%20Pr%20Bull%C3%B3n%20%20Lecci%C3%B3n%205%20%20Calor%20extremo.mp33",
+            audio: "https://ia601508.us.archive.org/23/items/y-2mate.com-pr-bullon-leccion-6-luchando-con-la-fuerza-de-cristo/y2mate.com%20-%20Pr%20Bull%C3%B3n%20%20Lecci%C3%B3n%206%20%20Luchando%20con%20la%20fuerza%20de%20Cristo.mp3",
             active: true,
         },
         {
