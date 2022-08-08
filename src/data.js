@@ -9,7 +9,7 @@ function chillHop() {
             cover: "https://www.recursos-biblicos.com/wp-content/uploads/2022/06/en-el-crisol-con-cristo-guia-escuela-sabatica-3er-trimestre-pdf-1024x751.jpg",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
-            audio: "https://ia601502.us.archive.org/12/items/y-2mate.com-pr-bullon-leccion-7-esperanza-indestructible.mp-3/y2mate.com%20-%20Pr%20Bull%C3%B3n%20%20Lecci%C3%B3n%207%20%20Esperanza%20indestructible.mp3.webm",
+            audio: "https://ia902507.us.archive.org/11/items/y2mate.com-pr-bullon-leccion-7-esperanza-indestructible.mp3/y2mate.com-Pr-Bull%C3%B3n-Lecci%C3%B3n-7-Esperanza-indestructible.mp3.mp3",
             active: true,
         },
         {
