@@ -5,16 +5,16 @@ function chillHop() {
 
         {
             name:"Comentarios del Pastor Bullón",
-            artist: "Lección 08 – Viendo al Invisible",
+            artist: "Lección 09 – Una Vida de Alabanza",
             cover: "https://www.recursos-biblicos.com/wp-content/uploads/2022/06/en-el-crisol-con-cristo-guia-escuela-sabatica-3er-trimestre-pdf-1024x751.jpg",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
-            audio: "https://archive.org/download/y2mate.com-pr-bullon-leccion-7-esperanza-indestructible.mp3-_1_/y2mate.com-Pr-Bull%C3%B3n-Lecci%C3%B3n-7-Esperanza-indestructible.mp3-_1_.mp3",
+            audio: "https://archive.org/serve/y-2mate.com-pr-bullon-leccion-9-una-vida-de-alabanza/y2mate.com%20-%20Pr%20Bull%C3%B3n%20%20Lecci%C3%B3n%209%20%20Una%20vida%20de%20alabanza.mp3",
             active: true,
         },
         {
             name:"Sábado 20 de agosto",
-            artist: "Lección 08 – Viendo al Invisible",
+            artist: "Lección 09 – Una Vida de Alabanza",
             cover: "https://www.recursos-biblicos.com/wp-content/uploads/2022/06/en-el-crisol-con-cristo-guia-escuela-sabatica-3er-trimestre-pdf-1024x751.jpg",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
