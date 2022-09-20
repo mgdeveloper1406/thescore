@@ -9,7 +9,7 @@ function chillHop() {
             cover: "https://www.recursos-biblicos.com/wp-content/uploads/2022/06/en-el-crisol-con-cristo-guia-escuela-sabatica-3er-trimestre-pdf-1024x751.jpg",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
-            audio: "https://ia601502.us.archive.org/27/items/y-2mate.com-pr-bullon-leccion-12-morir-como-una-semilla/y2mate.com%20-%20Pr%20Bull%C3%B3n%20%20Lecci%C3%B3n%2012%20%20Morir%20como%20una%20semilla.mp3",
+            audio: "https://ia601508.us.archive.org/19/items/y-2mate.com-pr-bullon-leccion-13-cristo-en-el-crisol/y2mate.com%20-%20Pr%20Bull%C3%B3n%20%20Lecci%C3%B3n%2013%20%20Cristo%20en%20el%20crisol.mp3",
             active: true,       
          },
         {   
