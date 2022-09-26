@@ -9,7 +9,7 @@ function chillHop() {
             cover: "https://www.recursos-biblicos.com/wp-content/uploads/2022/09/leccion-escuela-sabatica-4to-trimestre-2022-LA-MUERTE-Y-NUESTRA-ESPERANZA-FUTURA-1024x768.jpg",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
-            audio: "https://ia601508.us.archive.org/19/items/y-2mate.com-pr-bullon-leccion-13-cristo-en-el-crisol/y2mate.com%20-%20Pr%20Bull%C3%B3n%20%20Lecci%C3%B3n%2013%20%20Cristo%20en%20el%20crisol.mp3",
+            audio: "https://ia801502.us.archive.org/17/items/y-2mate.com-pr-bullon-leccion-1-rebelion-en-un-universo-perfecto/y2mate.com%20-%20Pr%20Bull%C3%B3n%20%20Lecci%C3%B3n%201%20%20Rebeli%C3%B3n%20en%20un%20Universo%20perfecto.mp3",
             active: true,       
          },
         {   
