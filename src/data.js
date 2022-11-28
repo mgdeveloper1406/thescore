@@ -13,7 +13,7 @@ function chillHop() {
             active: true,       
          },
         {   
-            name:"Sábado 26 de Noviembre,
+            name:"Sábado 26 de Noviembre"
             artist: "Lección 10 – El fuego del infierno",
             cover: "https://www.recursos-biblicos.com/wp-content/uploads/2022/09/leccion-escuela-sabatica-4to-trimestre-2022-LA-MUERTE-Y-NUESTRA-ESPERANZA-FUTURA-1024x768.jpg",
             id: uuidv4(),
