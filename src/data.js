@@ -3,14 +3,13 @@ import { v4 as uuidv4 } from "uuid";
 function chillHop() {
     return [
 
-          {
-            name:"93.9 The Score",
+        {
+            name:"The Ticket Sports Network",
             artist: "Sports News",
-            cover: "https://us0-cdn.onlineradiobox.com/img/l/9/77939.v7.png",
+            cover: "https://us0-cdn.onlineradiobox.com/img/l/2/29292.v8.png",
             id: uuidv4(),
-            color: ["#7BC8DD", "#D64A59"],
-            audio: "https://icecast.939thescore.com/stream/939live.mp3",
-            active: false,
+            color: ["#F24933", "#F9B437"],
+            audio: "http://72.215.141.182:8000/stream/2/",
             active: true,
         },
         {
@@ -57,6 +56,7 @@ function chillHop() {
             color: ["#F24933", "#F9B437"],
             audio: "https://17853.live.streamtheworld.com/KDUSAM_SC?dist=onlineradiobox",
             active: true,
+        },            
         {
             name:"ESPN Fantasy Sports 24/7",
             artist: "Sports News",
@@ -124,5 +124,3 @@ function chillHop() {
 }
 
 export default chillHop;
-
-
