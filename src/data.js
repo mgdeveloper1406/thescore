@@ -4,6 +4,15 @@ function chillHop() {
     return [
 
         {
+            name:"93.9 The Score",
+            artist: "Sports News",
+            cover: "https://us0-cdn.onlineradiobox.com/img/l/9/77939.v7.png",
+            id: uuidv4(),
+            color: ["#7BC8DD", "#D64A59"],
+            audio: "https://icecast.939thescore.com/stream/939live.mp3",
+            active: false,
+        },
+        {
             name:"The Ticket Sports Network",
             artist: "Sports News",
             cover: "https://us0-cdn.onlineradiobox.com/img/l/2/29292.v8.png",
